@@ -64,6 +64,6 @@ Ron Gustafsson, 22.5.2025
 
 ## 🖼️ Esimerkkikuva
 
-![Opintosuoritusote esimerkkikuva](https://raw.githubusercontent.com/Ron-Gustafsson/opintosuoritusote-ohjelma/main/Ohjelman_toimintaa.png)
+![Opintosuoritusote esimerkkikuva](Ohjelman_toimintaa.png)
 
 
