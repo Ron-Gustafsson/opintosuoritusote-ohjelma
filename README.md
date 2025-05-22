@@ -57,8 +57,9 @@ Esimerkki yhdestä opiskelijasta:
 - CSV- tai PDF-vientimahdollisuus
 
 📄 Lisenssi
-Tämä projekti on julkaistu avoimena opetus- ja harjoittelutarkoituksessa. Voit vapaasti käyttää, muokata ja jakaa.
+Tämä projekti on julkaistu avoimena opetus- ja harjoittelutarkoituksessa.
+Voit vapaasti käyttää, muokata ja jakaa.
 
-Ron Gustafsson 22.5.2025
+Ron Gustafsson, 22.5.2025
 
 ![Opintosuoritusote esimerkkikuva](ohjelman_toimintaa.png)
