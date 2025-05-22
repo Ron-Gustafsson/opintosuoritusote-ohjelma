@@ -62,4 +62,4 @@ Voit vapaasti käyttää, muokata ja jakaa.
 
 Ron Gustafsson, 22.5.2025
 
-![Opintosuoritusote esimerkkikuva](ohjelman_toimintaa.png)
+![Opintosuoritusote esimerkkikuva](Ohjelman_toimintaa.png)
