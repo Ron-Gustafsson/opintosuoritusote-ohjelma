@@ -34,25 +34,7 @@ Se avaa valikkopohjaisen käyttöliittymän:
 💾 Tietojen rakenne (JSON)
 Esimerkki yhdestä opiskelijasta:
 
-json
-Kopioi
-Muokkaa
-"Ron Gustafsson": {
-  "yto": [
-    {
-      "nimi": "Äidinkieli: AMK-opintoihin",
-      "osp": 1,
-      "arvosana": 5
-    }
-  ],
-  "ammatillinen": [
-    {
-      "nimi": "Ohjelmoinnin perusteet",
-      "osp": 5,
-      "arvosana": 5
-    }
-  ]
-}
+<pre><code>```json "Ron Gustafsson": { "yto": [ { "nimi": "Äidinkieli: AMK-opintoihin", "osp": 1, "arvosana": 5 } ], "ammatillinen": [ { "nimi": "Ohjelmoinnin perusteet", "osp": 5, "arvosana": 5 } ] } ```</code></pre>
 
 🚀 Tulevat kehitysideat
 - Graafinen käyttöliittymä (Tkinter)
@@ -63,3 +45,5 @@ Muokkaa
 Tämä projekti on julkaistu avoimena opetus- ja harjoittelutarkoituksessa. Voit vapaasti käyttää, muokata ja jakaa.
 
 Ron Gustafsson 22.5.2025
+
+![Opintosuoritusote esimerkkikuva](ohjelman_toimintaa.png)
