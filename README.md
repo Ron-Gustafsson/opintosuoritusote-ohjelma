@@ -1,6 +1,9 @@
 # Opintosuoritusote (Python CLI-ohjelma)
+----
 
 Tämä on Pythonilla tehty komentorivipohjainen ohjelma, joka hallitsee opiskelijoiden kurssitietoja ja laskee opintosuorituksiin liittyviä tilastoja.
+
+---
 
 ## 🔧 Ohjelman toiminnot
 
@@ -13,6 +16,8 @@ Tämä on Pythonilla tehty komentorivipohjainen ohjelma, joka hallitsee opiskeli
 - Poistaa yksittäisiä kursseja
 - Poistaa opiskelijan kaikkine tietoineen
 - Tallentaa ja lataa tiedot `opintosuoritusote.json`-tiedostosta automaattisesti
+
+---
 
 ## 🖥️ Käyttö
 
@@ -51,13 +56,19 @@ Esimerkki yhdestä opiskelijasta:
   ]
 }
 
+---
+
 🚀 Tulevat kehitysideat
 - Graafinen käyttöliittymä (Tkinter)
 - Kurssien muokkaus
 - CSV- tai PDF-vientimahdollisuus
+
+---
 
 📄 Lisenssi
 Tämä projekti on julkaistu avoimena opetus- ja harjoittelutarkoituksessa.
 Voit vapaasti käyttää, muokata ja jakaa.
 
 Ron Gustafsson, 22.5.2025
+
+---
