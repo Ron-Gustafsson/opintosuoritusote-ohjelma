@@ -38,7 +38,7 @@ Se avaa valikkopohjaisen käyttöliittymän:
 
 ## 💾 Tietojen rakenne (JSON)
 Esimerkki yhdestä opiskelijasta:
-
+```json
 "Ron Gustafsson": {
   "yto": [
     {
@@ -55,7 +55,7 @@ Esimerkki yhdestä opiskelijasta:
     }
   ]
 }
-
+```
 ---
 
 ## 🚀 Tulevat kehitysideat
