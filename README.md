@@ -35,7 +35,9 @@ Se avaa valikkopohjaisen käyttöliittymän:
 4. Poista kurssi
 5. Poistu
 
-💾 Tietojen rakenne (JSON)
+---
+
+## 💾 Tietojen rakenne (JSON)
 Esimerkki yhdestä opiskelijasta:
 
 "Ron Gustafsson": {
@@ -57,14 +59,14 @@ Esimerkki yhdestä opiskelijasta:
 
 ---
 
-🚀 Tulevat kehitysideat
+## 🚀 Tulevat kehitysideat
 - Graafinen käyttöliittymä (Tkinter)
 - Kurssien muokkaus
 - CSV- tai PDF-vientimahdollisuus
 
 ---
 
-📄 Lisenssi
+## 📄 Lisenssi
 Tämä projekti on julkaistu avoimena opetus- ja harjoittelutarkoituksessa.
 Voit vapaasti käyttää, muokata ja jakaa.
 
