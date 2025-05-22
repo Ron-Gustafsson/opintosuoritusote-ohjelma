@@ -22,7 +22,6 @@ Tämä on Pythonilla tehty komentorivipohjainen ohjelma, joka hallitsee opiskeli
 
 Aja ohjelma komentorivillä:
 
-```bash
 python opintosuoritusote.py
 
 Se avaa valikkopohjaisen käyttöliittymän:
@@ -40,7 +39,6 @@ Se avaa valikkopohjaisen käyttöliittymän:
 ## 💾 Tietojen rakenne (JSON)
 Esimerkki yhdestä opiskelijasta:
 
-```json
 "Ron Gustafsson": {
   "yto": [
     {
