@@ -34,7 +34,22 @@ Se avaa valikkopohjaisen käyttöliittymän:
 💾 Tietojen rakenne (JSON)
 Esimerkki yhdestä opiskelijasta:
 
-<pre><code>```json "Ron Gustafsson": { "yto": [ { "nimi": "Äidinkieli: AMK-opintoihin", "osp": 1, "arvosana": 5 } ], "ammatillinen": [ { "nimi": "Ohjelmoinnin perusteet", "osp": 5, "arvosana": 5 } ] } ```</code></pre>
+"Ron Gustafsson": {
+  "yto": [
+    {
+      "nimi": "Äidinkieli: AMK-opintoihin",
+      "osp": 1,
+      "arvosana": 5
+    }
+  ],
+  "ammatillinen": [
+    {
+      "nimi": "Ohjelmoinnin perusteet",
+      "osp": 5,
+      "arvosana": 5
+    }
+  ]
+}
 
 🚀 Tulevat kehitysideat
 - Graafinen käyttöliittymä (Tkinter)
