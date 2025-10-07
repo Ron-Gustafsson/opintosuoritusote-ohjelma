@@ -8,7 +8,7 @@ This is a command-line based program written in Python that manages student cour
 
 - Add a student and their courses (YTO or Vocational)
 - Prevent saving the same course twice
-- NDisplay selected student's:
+- Display selected student's:
   - Course lists
   - Number of courses and total OSP credits
   - Average grades
